@@ -1,0 +1,7 @@
+.step {
+    display: flex;
+}
+
+.step .pic {
+    margin-left: 88px;
+}
